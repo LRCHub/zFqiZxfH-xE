@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "base_track": "FLU",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-27T08:59:03.438745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bird Flu",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/01_Bird_Flu_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Flu",
+      "artist": "Lala Lala",
+      "has_synced": false,
+      "path": "select/02_The_Flu_Lala_Lala.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Memphis Flu",
+      "artist": "The Felice Brothers",
+      "has_synced": true,
+      "path": "select/03_Memphis_Flu_The_Felice_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dai The Flu",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/04_Dai_The_Flu_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Government Flu",
+      "artist": "Dead Kennedys",
+      "has_synced": true,
+      "path": "select/05_Government_Flu_Dead_Kennedys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just The Flu",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/06_Just_The_Flu_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Heavenly Blue Flu (Bonus Track)",
+      "artist": "Nothing",
+      "has_synced": true,
+      "path": "select/07_The_Heavenly_Blue_Flu_(Bonus_Track)_Nothing.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rockin Pneumonia and the Boogie Woogie Flu",
+      "artist": "Dr. John",
+      "has_synced": false,
+      "path": "select/08_Rockin_Pneumonia_and_the_Boogie_Woogie_Flu_Dr._John.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rockin' Pneumonia and the Boogie Woogie Flu",
+      "artist": "Phoebe Snow",
+      "has_synced": false,
+      "path": "select/09_Rockin'_Pneumonia_and_the_Boogie_Woogie_Flu_Phoebe_Snow.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rockin' Pneumonia / Boogie Woogie Flu",
+      "artist": "Johnny Rivers",
+      "has_synced": true,
+      "path": "select/10_Rockin'_Pneumonia___Boogie_Woogie_Flu_Johnny_Rivers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rockin' Pheumonia - Boogie Woogie Flu",
+      "artist": "Johnny Rivers",
+      "has_synced": true,
+      "path": "select/11_Rockin'_Pheumonia_-_Boogie_Woogie_Flu_Johnny_Rivers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rockin' Pneumonia - Boogie Woogie Flu",
+      "artist": "Johnny Rivers",
+      "has_synced": true,
+      "path": "select/12_Rockin'_Pneumonia_-_Boogie_Woogie_Flu_Johnny_Rivers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rockin' Pneumonia And The Boogie Woogie Flu",
+      "artist": "Johnny Rivers",
+      "has_synced": false,
+      "path": "select/13_Rockin'_Pneumonia_And_The_Boogie_Woogie_Flu_Johnny_Rivers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rockin' Pneumonia And The Boogie Woogie Flu",
+      "artist": "Johnny Rivers",
+      "has_synced": true,
+      "path": "select/14_Rockin'_Pneumonia_And_The_Boogie_Woogie_Flu_Johnny_Rivers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Flu Ride",
+      "artist": "Bob Rivers",
+      "has_synced": true,
+      "path": "select/15_Flu_Ride_Bob_Rivers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rockin Pneumonia and the Boogie Woogie Flu",
+      "artist": "Huey \"Piano\" Smith",
+      "has_synced": true,
+      "path": "select/16_Rockin_Pneumonia_and_the_Boogie_Woogie_Flu_Huey__Piano__Smith.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rocking Pneumonia and the Boogie Woogie Flu",
+      "artist": "Huey “Piano” Smith & The Clowns",
+      "has_synced": false,
+      "path": "select/17_Rocking_Pneumonia_and_the_Boogie_Woogie_Flu_Huey_“Piano”_Smith_&_The_Clowns.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rocking Pneumonia And The Boogie Woogie Flu",
+      "artist": "Huey 'Piano' Smith And The Clowns",
+      "has_synced": false,
+      "path": "select/18_Rocking_Pneumonia_And_The_Boogie_Woogie_Flu_Huey_'Piano'_Smith_And_The_Clowns.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Flu Game",
+      "artist": "M.A.M",
+      "has_synced": true,
+      "path": "select/19_Flu_Game_M.A.M.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLU",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_FLU_IVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "FLU",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/localdb_01_FLU_IVE.txt",
+      "repo_name": "TFRIVigrEcA"
+    }
+  ]
+}
